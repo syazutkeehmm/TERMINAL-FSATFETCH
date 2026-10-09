@@ -21,4 +21,18 @@
               "keys": "white",
               "tittles": "purple",
         },
-                
+     "seperator": " ",
+     "color": {
+           "key": "white",
+           "titles": "purple",
+           "output": "default",
+           "separator": "white"
+    },
+    "key": { 
+        "type": "both",
+        "width": 16
+      }
+    },
+
+    "modeules": [
+      "
